@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently Studying Computer Science :- <br> MIT World Peace University.
   
-- 💬 Ask me about :- <br> Computer Science Engineer passionate about AI/ML and Backend Development. Skilled in Java, Python, MERN Stack, and database technologies, with hands-on experience building AI-driven applications, chatbots, and full-stack projects. Driven by continuous learning and creating innovative solutions that solve real-world challenges.
+- 💬 About me :- <br> Computer Science Engineer passionate about AI/ML and Backend Development. Skilled in Java, Python, MERN Stack, and database technologies, with hands-on experience building AI-driven applications, chatbots, and full-stack projects. Driven by continuous learning and creating innovative solutions that solve real-world challenges.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
