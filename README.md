@@ -1,5 +1,4 @@
-
-
+![logo](https://github.com/SiddheshPardale/SiddheshPardale/blob/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Siddhesh Pardale</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
@@ -8,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddheshpardale&label=Profile%20views&color=0e75b6&style=flat" alt="siddheshpardale" /> </p>
 
-- 🌱 I’m currently Studying Computer Science **I’m currently Studying Computer Science**
+- 🌱 I’m currently Studying Computer Science **:- MIT World Peace University**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
