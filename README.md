@@ -7,7 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddheshpardale&label=Profile%20views&color=0e75b6&style=flat" alt="siddheshpardale" /> </p>
 
-- 🌱 I’m currently Studying Computer Science **:- MIT World Peace University**
+- 🌱 I’m currently Studying Computer Science **\n :- MIT World Peace University**
+- - 💬 Ask me about **\n Computer Science Engineer passionate about AI/ML and Backend Development. Skilled in Java, Python, MERN Stack, and database technologies, with hands-on experience building AI-driven applications, chatbots, and full-stack projects. Driven by continuous learning and creating innovative solutions that solve real-world challenges.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
