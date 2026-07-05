@@ -11,7 +11,7 @@
   
 - 💬 About me :- <br>
 Software Developer | AI & Machine Learning Enthusiast.
-Computer Science Engineer passionate about Software Development, AI/ML, and Backend Engineering. Experienced in building AI-powered applications, full-stack web solutions, and machine learning projects using Java, Python  and modern database technologies. Passionate about solving real-world problems, continuously learning new technologies, and developing scalable software solutions.
+- Computer Science Engineer passionate about Software Development, AI/ML, and Backend Engineering. Experienced in building AI-powered applications, full-stack web solutions, and machine learning projects using Java, Python  and modern database technologies. Passionate about solving real-world problems, continuously learning new technologies, and developing scalable software solutions.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
