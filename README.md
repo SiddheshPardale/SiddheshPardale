@@ -24,10 +24,10 @@ Software Developer | AI & Machine Learning Enthusiast.
   <!-- Gmail -->
 <a href="mailto:siddheshpardale9409@gmail.com" target="_blank">
   <img align="center"
-       src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"
+       src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='40' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='6' fill='%23EA4335'/%3E%3Cpath d='M7 12v17h4V17l9 7 9-7v12h4V12l-13 10z' fill='white'/%3E%3C/svg%3E"
        alt="Gmail"
        height="30"
-       width="40" />
+       width="30" />
 </a>
   
   <!-- HackerRank -->
