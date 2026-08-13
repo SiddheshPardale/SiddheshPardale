@@ -22,7 +22,7 @@ Software Developer | AI & Machine Learning Enthusiast.
   </a>
 
  <!-- Gmail -->
-<a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+<a href="mailto:siddheshpardale9409@gmail.com" target="_blank">
   <img align="center"
        src="https://img.shields.io/badge/-EA4335?style=flat-square&logo=gmail&logoColor=white"
        alt="Gmail"
