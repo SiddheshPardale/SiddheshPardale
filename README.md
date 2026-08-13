@@ -21,13 +21,12 @@ Software Developer | AI & Machine Learning Enthusiast.
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 
-  <!-- Gmail -->
-<a href="mailto:siddheshpardale9409@gmail.com" target="_blank">
+ <!-- Gmail -->
+<a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
   <img align="center"
-       src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='40' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='6' fill='%23EA4335'/%3E%3Cpath d='M7 12v17h4V17l9 7 9-7v12h4V12l-13 10z' fill='white'/%3E%3C/svg%3E"
+       src="https://img.shields.io/badge/-EA4335?style=flat-square&logo=gmail&logoColor=white"
        alt="Gmail"
-       height="30"
-       width="30" />
+       height="30" />
 </a>
   
   <!-- HackerRank -->
