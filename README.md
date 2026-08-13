@@ -23,13 +23,24 @@ Software Developer | AI & Machine Learning Enthusiast.
 
   <!-- Gmail -->
   <a href="mailto:siddheshpardale9409@gmail.com" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" height="30" width="40" />
-  </a>
-
+  <svg xmlns="http://www.w3.org/2000/svg"
+       width="40"
+       height="30"
+       viewBox="0 0 40 30">
+    <rect width="40" height="30" rx="5" fill="#EA4335"/>
+    <path d="M5 7 L20 18 L35 7 V23 H5 Z"
+          fill="white"/>
+    <path d="M5 7 L20 18 L35 7"
+          fill="none"
+          stroke="white"
+          stroke-width="2.5"/>
+  </svg>
+</a>
+  
   <!-- HackerRank -->
-  <a href="https:www.hackerrank.com/profile/siddheshpardale1" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
+<a href="https://www.hackerrank.com/profile/siddheshpardale1" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+</a>
 
 </p>
 <h3 align="left">Languages and Tools:</h3>
