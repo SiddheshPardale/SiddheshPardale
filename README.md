@@ -22,19 +22,12 @@ Software Developer | AI & Machine Learning Enthusiast.
   </a>
 
   <!-- Gmail -->
-  <a href="mailto:siddheshpardale9409@gmail.com" target="_blank">
-  <svg xmlns="http://www.w3.org/2000/svg"
-       width="40"
+<a href="mailto:siddheshpardale9409@gmail.com" target="_blank">
+  <img align="center"
+       src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"
+       alt="Gmail"
        height="30"
-       viewBox="0 0 40 30">
-    <rect width="40" height="30" rx="5" fill="#EA4335"/>
-    <path d="M5 7 L20 18 L35 7 V23 H5 Z"
-          fill="white"/>
-    <path d="M5 7 L20 18 L35 7"
-          fill="none"
-          stroke="white"
-          stroke-width="2.5"/>
-  </svg>
+       width="40" />
 </a>
   
   <!-- HackerRank -->
