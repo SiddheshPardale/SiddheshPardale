@@ -27,7 +27,7 @@ Software Developer | AI & Machine Learning Enthusiast.
   </a>
 
   <!-- HackerRank -->
-  <a href="[https:www.hackerrank.com/profile/siddheshpardale1" target="_blank">
+  <a href="https:www.hackerrank.com/profile/siddheshpardale1" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
 
