@@ -125,7 +125,7 @@ I enjoy building **AI-powered applications and practical software solutions** wh
 
 ### 🚀 Featured Projects
 
-- 🫁 **Lung Tumor Classification using CNN**
+- 🧬 **Lung Tumor Classification using CNN**
 - 📝 **AI-Based Essay Grading System**
 - 😊 **Emoji-fy Detection**
 - 💼 Job Application Tracker
