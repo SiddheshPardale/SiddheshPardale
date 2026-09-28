@@ -1,4 +1,6 @@
-![logo](https://github.com/SiddheshPardale/SiddheshPardale/blob/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png)
+<p align="center">
+  <img src="banner (7).svg" alt="Siddhesh Pardale - Computer Science Engineer" width="100%"/>
+</p>
 <h1 align="center">Hi 👋, I'm Siddhesh Pardale</h1>
 <h3 align="center">Aspiring Software Developer | Python | AI/ML | Backend Development</h3>
 
