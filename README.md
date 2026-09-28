@@ -12,7 +12,7 @@
 
 I’m a **Computer Science graduate and aspiring Software Developer** focused on **Python, AI/ML, and backend development**.
 
-I build **AI-powered applications and practical software solutions**, and I’m currently seeking a **fresher opportunity in software development**.
+I enjoy building **AI-powered applications and practical software solutions** while continuously improving my development and problem-solving skills.
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
@@ -48,6 +48,9 @@ I build **AI-powered applications and practical software solutions**, and I’m 
 <p align="left">
 
 <!-- Languages -->
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -61,9 +64,6 @@ I build **AI-powered applications and practical software solutions**, and I’m 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 </a>
 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
 
 <!-- Web -->
 
