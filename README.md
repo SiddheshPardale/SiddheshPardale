@@ -132,6 +132,13 @@ I enjoy building **AI-powered applications and practical software solutions** wh
 - 😊 **Emoji-fy Detection**
 - 💼 Job Application Tracker
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SiddheshPardale&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddheshPardale&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
