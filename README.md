@@ -136,4 +136,7 @@ I enjoy building **AI-powered applications and practical software solutions** wh
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=SiddheshPardale&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
