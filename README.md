@@ -130,7 +130,8 @@ I enjoy building **AI-powered applications and practical software solutions** wh
 - 🧬 **Lung Tumor Classification using CNN**
 - 📝 **AI-Based Essay Grading System**
 - 😊 **Emoji-fy Detection**
-- 💼 Job Application Tracker
+- 💼 **Job Application Tracker**
+- 🎫 **IT HelpDesk Ticket System**
 
 
 <div align="center">
